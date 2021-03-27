@@ -11,6 +11,7 @@ Checkout my projects.
 
 [![Gmail Badge](https://img.shields.io/badge/-rgrichesh45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgrichesh45@gmail.com)](mailto:rgrichesh45@gmail.com)
 
+Want to Donate? Send me BAT token from your browser to this github profile. 
 <!--
 **richeshgupta/richeshgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
